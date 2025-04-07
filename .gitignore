@@ -4,6 +4,8 @@
 [Dd]ist/
 [Tt]estResults/
 [Ll]ogs/
+obj/
+bin/
 
 # Windows Installer files
 *.cab
@@ -15,4 +17,3 @@
 .idea/
 .vscode/
 .vs/
-.obj/
